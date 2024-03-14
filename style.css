@@ -225,3 +225,8 @@ input[type=radio] + label, input[type=checkbox] + label {
     font-size: 1em;
     background-color: rgba(107, 8, 110, 0);
 }
+
+.testecor {
+    background-color: lightblue;
+    font-size: 25pt;
+}
